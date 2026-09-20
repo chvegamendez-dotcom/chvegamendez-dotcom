@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Christian Jesús Méndez Vega 
 
-<!--
-**chvegamendez-dotcom/chvegamendez-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Co-fundador y Lead Software Engineer en Tecnointegra**
 
-Here are some ideas to get you started:
+Soy Ingeniero en Sistemas Computacionales egresado del Tecnológico Nacional de México (Campus Pachuca). Me apasiona diseñar y construir soluciones de software eficientes, escalables y orientadas a resolver problemas reales. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, como líder técnico en Tecnointegra, dirijo el desarrollo de plataformas empresariales, integraciones de inteligencia artificial y modernización de sistemas heredados.
+
+### Lo que hago
+*   **Arquitectura de Software:** Diseño de sistemas integrales, desde el frontend hasta la gestión de bases de datos y despliegue en servidores.
+*   **Gestión y Liderazgo:** Coordinación de proyectos tecnológicos y desarrollo de productos como plataformas ERP y sistemas de control escolar.
+*   **Automatización e Integraciones:** Implementación de flujos automatizados, APIs y asistentes virtuales.
+
+###  Stack Tecnológico
+*   **Frontend:** JavaScript, React, Next.js, HTML5/CSS3
+*   **Backend:** PHP, C#, .NET, Python
+*   **Bases de Datos:** SQL Server, MySQL, MariaDB
+*   **Infraestructura & DevOps:** Docker, Nginx Proxy Manager, Entornos VPS
+*   **Herramientas y CMS:** n8n, Moodle, H5P, WooCommerce
+
+###  Proyectos Destacados
+*   **Apex ERP:** Desarrollo de una plataforma web integral de punto de venta y gestión de inventario multi-almacén con dashboards interactivos.
+*   **Arpegios (ESCIM):** Ingeniería de una arquitectura web con Next.js y un clúster de Docker VPS para un asistente de WhatsApp potenciado con Meta AI.
+*   **Sistemas Institucionales:** Refactorización de módulos de bases de datos para administración municipal y desarrollo de sistemas de gestión educativa utilizando ASP.NET MVC y C#.
