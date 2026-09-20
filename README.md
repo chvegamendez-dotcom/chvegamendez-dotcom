@@ -44,3 +44,4 @@ Actualmente, como líder técnico en Tecnointegra, dirijo el desarrollo de plata
 *   **Apex ERP:** Desarrollo de una plataforma web integral de punto de venta y gestión de inventario multi-almacén con dashboards interactivos.
 *   **Arpegios (ESCIM):** Ingeniería de una arquitectura web con Next.js y un clúster de Docker VPS para un asistente de WhatsApp potenciado con Meta AI.
 *   **Sistemas Institucionales:** Refactorización de módulos de bases de datos para administración municipal y desarrollo de sistemas de gestión educativa utilizando ASP.NET MVC y C#.
+
